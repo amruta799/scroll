@@ -1,0 +1,33 @@
+body{
+  padding:0;
+  margin:0;
+  height: 2200px;
+  overflow-x: hidden;
+}
+h1{
+  color:purple;
+  padding-left: 3%;
+}
+img{
+  padding-left: 3%;
+  width:46%
+}
+p{
+  padding-left: 3%;
+  padding-right: 3%;
+  left:2000px;
+}
+#img1{
+  position:fixed;
+
+
+  white-space: nowrap;
+  left:2000px;
+}
+#img2{
+  position:fixed;
+
+
+  white-space: nowrap;
+  right:2000px;
+}
